@@ -28,7 +28,7 @@
 
 ### Featured Projects
 
-- [incometax.nl](https://github.com/shreyasnikte/incomeTaxNL) — A Privacy-focused salary and capital gains tax calculator for Dutch tax payers
+- [incometax.nl GitHub Repo](https://github.com/shreyasnikte/incomeTaxNL) — A Privacy-focused salary and capital gains tax calculator for Dutch tax payers
 
 
 
