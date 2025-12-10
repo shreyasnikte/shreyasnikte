@@ -16,7 +16,7 @@
 
 ### About Me
 
-- 💻 I’m passionate about building good tools.
+- 💻 I’m passionate about building good tools. 
 - 🌱 Currently exploring: Privacy focused client-side webapps - Tax calculators, system documentation tools and B2B software in general.
 - 🔭 Recent focus: [incomeTax.NL](https://www.incometax.nl)
 - 💬 Ask me about: building things, breaking things and
@@ -28,22 +28,8 @@
 
 ### Featured Projects
 
-- [incometax.nl]([https://github.com/shreyasnikte/project-name-1](https://github.com/shreyasnikte/incomeTaxNL)) — A Privacy-focused salary and capital gains tax calculator for Dutch tax payers
+- [incometax.nl](https://github.com/shreyasnikte/incomeTaxNL) — A Privacy-focused salary and capital gains tax calculator for Dutch tax payers
 
----
-
-### GitHub Stats
-
-<p align="left">
-  <img height="160" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shreyasnikte&show_icons=true&include_all_commits=true&count_private=true&theme=transparent" />
-  <img height="160" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyasnikte&layout=compact&langs_count=8&theme=transparent" />
-</p>
-
-<p>
-  <img height="160" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=shreyasnikte&theme=transparent" />
-</p>
-
-<!-- You can remove any of the above images if you prefer a cleaner look -->
 
 
 ---
