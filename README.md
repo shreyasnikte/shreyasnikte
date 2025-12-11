@@ -16,12 +16,12 @@
 
 ### About Me
 
-- 💻 I’m passionate about building good tools. 
+- 💻 I’m passionate about making things - hardware to software to food. 
 - 🌱 Currently exploring: Privacy focused client-side webapps - Tax calculators, system documentation tools and B2B software in general.
 - 🔭 Recent focus: [incomeTax.NL](https://www.incometax.nl)
 - 💬 Ask me about: building things, breaking things and
-- 📚 I enjoy: F1, hand-building things, cycling, good tools (hardware & software)
-- 🎯 Goals for 2026: Develop fast and reliably with AI
+- 📚 I enjoy: F1, cycling, DIY stuff
+- 🎯 Goals for 2026: Develop fast and reliable software with AI
 
 ---
 
