@@ -18,8 +18,6 @@
 
 - 💻 I’m passionate about making things - hardware to software to food. 
 - 🌱 Currently exploring: Privacy focused client-side webapps - Tax calculators, system documentation tools and B2B software in general.
-- 🔭 Recent focus: [incomeTax.NL](https://www.incometax.nl)
-- 📚 I enjoy: F1, cycling, DIY stuff
 - 🎯 Goals for 2026: Develop fast and reliable software with AI
 
 ---
@@ -35,10 +33,9 @@
 
 ### Fun Facts
 
-- 🧩 I built my own automatic wrist watch...
+- 🧩 I built my own custom time piece with 4.5 billion years old meteorite...
 
 ---
 
-Thanks for visiting! ⭐ If you like something here, consider starring a repo or say hi.
 
-<sub>Last updated: 2025-12-10</sub>
+<sub>Last updated: 2025-12-27</sub>
