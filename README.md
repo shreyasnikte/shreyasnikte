@@ -10,8 +10,8 @@
 ---
 
 ### 🛠️ Current Projects
-* **[incometax.nl](https://github.com/shreyasnikte/incomeTaxNL)**: Privacy-first salary & capital gains tax calculator for the NL.
-* **[Dutch Box 3 Tax calculator - npm Package](https://github.com/shreyasnikte/incomeTaxNL)**: NPM package for calculating Dutch Box 3 tax calculations
+* **[incometax.nl](https://incometax.nl)**: Privacy-first salary & capital gains tax calculator for the NL.
+* **[Dutch Box 3 Tax calculator - npm Package](https://www.npmjs.com/package/dutch-tax-box3-calculator)**: NPM package for calculating Dutch Box 3 tax calculations
 * **Version Control for the rest of us**: (Stealth)
 
 ### 📜 Legacy Work
