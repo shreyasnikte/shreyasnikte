@@ -1,41 +1,33 @@
 
 
-<h1 align="center">Hi, I'm Shreyas Nikte 👋</h1>
+# Hi, I'm Shreyas Nikte 👋
 
-<p align="center">
-  <a href="https://github.com/shreyasnikte?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/shreyasnikte?label=Followers&style=social">
-  </a>
-  <a href="https://github.com/shreyasnikte?tab=stars">
-    <img alt="GitHub Stars" src="https://img.shields.io/github/stars/shreyasnikte?affiliations=OWNER%2CCOLLABORATOR&style=social">
-  </a>
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=shreyasnikte&label=Profile%20views&color=0e75b6&style=flat">
+📍 **Netherlands ↔ Germany ↔ India**
+
+---
+>  A product guy with a little data and software background. Devloping tools which help me (or could have helped me in past). Still getting surprised by the lightening speed and accuracy of vibe-coding/vibe-engineering. 
+
+---
+
+### 🛠️ Current Projects
+* **[incometax.nl](https://github.com/shreyasnikte/incomeTaxNL)**: Privacy-first salary & capital gains tax calculator for the NL.
+* **[Dutch Box 3 Tax calculator - npm Package](https://github.com/shreyasnikte/incomeTaxNL)**: NPM package for calculating Dutch Box 3 tax calculations
+* **Version Control for the rest of us**: (Stealth)
+
+### 📜 Legacy Work
+* **[Kesho Bot](https://github.com/shreyasnikte/kesho-telegram-bot)**: Telegram bot for remote control of music playing on another device on your LAN.
+* **Meteorite Watch**: A guide on how to build on your own meteorite automatic watch (not on github yet)
+
+### 🤝 The big fat why
+* I am a geek who did not follow the traditional software or data engineering stream. As a result, I face problems which are adjecent to software industry but still not addressed by the software community.
+* That leave me with one choice - fix my own problems. I try and many times fail (there is a graveyard of unfinished projects). Sometimes it works out well!
+
+
+---
+
+<p align="left">
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/shreyasnikte?label=Followers&style=flat-square">
+  <img alt="GitHub Stars" src="https://img.shields.io/github/stars/shreyasnikte?style=flat-square">
 </p>
 
----
-
-### About Me
-
-- 💻 I’m passionate about making things - hardware to software to food. 
-- 🌱 Currently exploring: Privacy focused client-side webapps - Tax calculators, system documentation tools and B2B software in general.
-- 🎯 Goals for 2026: Develop fast and reliable software with AI
-
----
-
-
-### Featured Projects
-
-- [incometax.nl GitHub Repo](https://github.com/shreyasnikte/incomeTaxNL) — A Privacy-focused salary and capital gains tax calculator for Dutch tax payers
-
-
-
----
-
-### Fun Facts
-
-- 🧩 I built my own custom time piece with 4.5 billion years old meteorite...
-
----
-
-
-<sub>Last updated: 2025-12-27</sub>
+<sub>Last updated: 2026-02-02</sub>
