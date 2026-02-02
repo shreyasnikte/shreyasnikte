@@ -5,7 +5,7 @@
 📍 **Netherlands ↔ Germany ↔ India**
 
 ---
->  A product guy with a little data and software background. Devloping tools which help me (or could have helped me in past). Still getting surprised by the lightening speed and accuracy of vibe-coding/vibe-engineering. 
+>  A product guy with a little data and software background. Devloping tools which help me (or could have helped me in past). Everyday getting surprised by the lightening fast speed and accuracy of vibe-coding/vibe-engineering. 
 
 ---
 
