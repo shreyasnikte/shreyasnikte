@@ -5,7 +5,7 @@
 📍 **Netherlands ↔ Germany ↔ India**
 
 ---
->  A product guy with a little data and software background. Devloping tools which help me (or could have helped me in past). Everyday getting surprised by the lightening fast speed and accuracy of vibe-coding/vibe-engineering. Building stuff fast with AI assistance.
+>  A product guy with a little data and software background. Devloping tools which help me (or could have helped me in past). AI is commoditizing software. Cost-Per-Effort will get passed to the end user.
 
 ---
 
@@ -30,4 +30,4 @@
   <img alt="GitHub Stars" src="https://img.shields.io/github/stars/shreyasnikte?style=flat-square">
 </p>
 
-<sub>Last updated: 2026-02-02</sub>
+<sub>Last updated: 11-FEB-2026</sub>
